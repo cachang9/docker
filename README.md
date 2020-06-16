@@ -23,16 +23,11 @@ We think open data, open source, and open strategy win over proprietary solution
 </details>
 
 # Pelias in Docker
-
+This repository is what a configured Pelias framework should look like.
 This repository contains a framework for downloading/preparing and building the [Pelias Geocoder](https://github.com/pelias/pelias) using Docker and [Docker Compose](https://github.com/docker/compose#docker-compose).
 
 ## Projects
-
-Example projects are included in the [projects](https://github.com/pelias/docker/tree/master/projects) directory.
-
-We recommend you start with the `portland-metro` example as a first-time user: it has lower disk and time requirements and can be used to help you familiarize yourself with the process.
-
-Once you have successfully completed a small build you can use this as a base to create your own projects or move on to larger projects.
+The Canadian configuration is under ./projects/canada
 
 ## Prerequisites
 
